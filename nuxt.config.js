@@ -14,9 +14,9 @@ export default {
     fallback: true,
   },
 
-  // router
+  // Router
   router: {
-    // base: '/klasse-io-client/'
+    // base: '/muster/'
   },
 
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
@@ -24,7 +24,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'klasse-io',
+    title: 'Muster - Audio Room Space',
     htmlAttrs: {
       lang: 'en'
     },
@@ -86,7 +86,7 @@ export default {
     },
   },
 
-  // fontawesome
+  // Fontawesome
   fontawesome: {
     icons: {
       solid: true,
